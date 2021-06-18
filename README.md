@@ -14,10 +14,12 @@ python Snake.py
 ```
 
 # Working of the game with screenshots
-![Snake 6_18_2021 10_06_45 AM](https://user-images.githubusercontent.com/86068707/122507369-b7ba4900-d01d-11eb-9291-2a523f7314dc.png)
-![Snake 6_18_2021 10_07_46 AM](https://user-images.githubusercontent.com/86068707/122507525-fe0fa800-d01d-11eb-86ba-8c864f7a32e1.png)
+![Snake 6_18_2021 10_06_45 AM](https://user-images.githubusercontent.com/86068707/122508598-d3beea00-d01f-11eb-8beb-f471b17e6861.png)
+![Snake 6_18_2021 10_07_46 AM](https://user-images.githubusercontent.com/86068707/122508603-d7527100-d01f-11eb-8cf9-2927aa005298.png)
+
 Active Game Screen
-![Snake 6_18_2021 10_09_53 AM](https://user-images.githubusercontent.com/86068707/122507572-1089e180-d01e-11eb-92fd-3d2e2ee0de45.png)
+![Snake 6_18_2021 10_09_53 AM](https://user-images.githubusercontent.com/86068707/122508611-dcafbb80-d01f-11eb-91af-bc76dd291373.png)
+
 Game Over Screen
 
 # Prerequisites
