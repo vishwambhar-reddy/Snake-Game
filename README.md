@@ -20,6 +20,7 @@ python Snake.py
 Active Game Screen
 
 ![Snake 6_18_2021 10_09_53 AM](https://user-images.githubusercontent.com/86068707/122508702-049f1f00-d020-11eb-9e8a-bf8419e017dc.png)
+
 Game Over Screen
 
 # Prerequisites
