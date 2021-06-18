@@ -18,8 +18,8 @@ python Snake.py
 ![Snake 6_18_2021 10_07_46 AM](https://user-images.githubusercontent.com/86068707/122508603-d7527100-d01f-11eb-8cf9-2927aa005298.png)
 
 Active Game Screen
-![Snake 6_18_2021 10_09_53 AM](https://user-images.githubusercontent.com/86068707/122508611-dcafbb80-d01f-11eb-91af-bc76dd291373.png)
 
+![Snake 6_18_2021 10_09_53 AM](https://user-images.githubusercontent.com/86068707/122508702-049f1f00-d020-11eb-9e8a-bf8419e017dc.png)
 Game Over Screen
 
 # Prerequisites
