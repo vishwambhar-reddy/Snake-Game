@@ -14,7 +14,10 @@ python Snake.py
 ```
 
 # Working of the game with screenshots
-![Snake 6_18_2021 10_06_45 AM](https://user-images.githubusercontent.com/86068707/122508598-d3beea00-d01f-11eb-8beb-f471b17e6861.png)
+![Snake 6_19_2021 10_11_47 AM](https://user-images.githubusercontent.com/86068707/122631211-b81f1680-d0e7-11eb-82d1-2737226160c5.png)
+
+Rules and Intructions to the player
+
 ![Snake 6_18_2021 10_07_46 AM](https://user-images.githubusercontent.com/86068707/122508603-d7527100-d01f-11eb-8cf9-2927aa005298.png)
 
 Active Game Screen
