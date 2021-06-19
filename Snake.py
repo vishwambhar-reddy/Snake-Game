@@ -96,7 +96,6 @@ def game_over(score):
     pygame.quit()
     quit()
 
-#variable to keep the loop running
 
 #Main Game loop
 def game_loop():
